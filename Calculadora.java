@@ -26,5 +26,4 @@ public class Calculadora {
         System.out.println("Resultado = " + r);
         return r;
     }
-
 }
